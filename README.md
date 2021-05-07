@@ -29,7 +29,6 @@ The scripts have two associated external functions makeNucMask() and makeChromoc
 * R packages:
   * [EBImage](https://bioconductor.org/packages/release/bioc/html/EBImage.html) version 4.26
 
-
 ### Running the analysis on the test data set
 * Install the listed requirements via [Bioconductor](https://bioconductor.org/) (for [EBImage](https://bioconductor.org/packages/release/bioc/html/EBImage.html))
 * Download the functions [makeNucMask](https://github.com/lfra/ChromocenterFeatures/tree/main/makeNucMask.R), [makeChromocenterMask](https://github.com/lfra/ChromocenterFeatures/tree/main/makeChromocenterMask.R), the [example data](https://github.com/lfra/ChromocenterFeatures/tree/main/sample_data.zip) as well as the R scripts [SegmentCC.R](https://github.com/lfra/ChromocenterFeatures/tree/main/segmentCC.R), [CurateCC.R](https://github.com/lfra/ChromocenterFeatures/tree/main/curateCC.R) and [PlotCC.R](https://github.com/lfra/ChromocenterFeatures/tree/main/plotCC.R) into one folder on your local computer.
