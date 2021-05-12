@@ -1,4 +1,4 @@
-# ChromocenterFeatures (SegmentCC, CurateCC, PlotCC)
+# Chromocenters script collection (SegmentCC, CurateCC, PlotCC)
 Set of scripts to extract chromocenter features from fluorescence microscopy images of mouse cells.<br/>
 The scripts have two associated external functions makeNucMask() and makeChromocenterMask() required for segmentation.<br/>
 
